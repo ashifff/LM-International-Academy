@@ -1,5 +1,7 @@
 # LM International Academy
 
+view site: https://lm-international-academy.netlify.app/
+
 A professional educational website for **LM International Academy**, designed with a modern, responsive layout and a distinct academic branding.
 
 ## 🎨 Design System
